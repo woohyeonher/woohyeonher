@@ -7,9 +7,11 @@
 ---
 
 ### 🚀 Featured Projects
+* **[Dasom](https://github.com/woohyeonher/dasom)** – Multi-agent AI that mediates relationship conflicts — privately, neutrally, and without confrontation
 * **[GoFindMe](https://github.com/woohyeonher/GoFindMe)** – Multi-modal LLM pipeline for clinical trial matching
 * **[Multimodal Brain Analytics](https://github.com/woohyeonher/multimodal-brain-analytics)** – Multimodal DCCA + DEC framework for brain MRI clustering
-* **[Covid19 Policy Analysis](https://github.com/woohyeonher/covid-19-analysis)** – Built an Azure-based data pipeline and Power BI dashboard to rank containment policy effectiveness across 10 countries
+* **[PecKeys](https://github.com/woohyeonher/chest-bounce-to-keyboard)** – Detects pectoral muscle bounces via optical flow on a dynamic chest ROI and maps them to keyboard inputs — no hands, no wearables
+
 
 ---
 
